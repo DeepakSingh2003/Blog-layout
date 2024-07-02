@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #f8f8f8;
+}
+
+header
+{
+    background-color: rgb(89, 5, 89);
+    height: 92px;
+    text-align: center;
+    line-height: 48px;
+    padding: 1rem;
+    color: white;
+}
+.hitems a
+{
+    text-decoration: none;
+    color: white;
+    margin: 12px;
+}
+
+.blogsection
+{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    height: 19rem;
+    padding: 1rem;
+    margin: 32px;
+    border-radius: 8px;
+    
+}
+.blog1
+{
+    line-height: 42px;
+    border-bottom: 1px solid;
+    height: 120px;
+    margin-top: 22px;
+}
+.footer
+{
+    height: 49px;
+    background-color: purple;
+    
+}
+.ftr p
+{
+    text-align: center;
+    color: white;
+    padding: 1rem;
+}
